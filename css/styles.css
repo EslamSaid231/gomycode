@@ -1,0 +1,91 @@
+html {
+  background-image: url(shrouk.jpg);
+  background-size: cover;
+}
+body {
+  background-color: coral;
+}
+* {
+  border: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+  font-stretch: expanded;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  text-align: center;
+}
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 30px;
+  text-align: center;
+}
+.box1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;
+  background-color: rgba(46, 12, 124, 0.61);
+  height: 400px;
+  width: fit-content;
+  margin-top: -16px;
+}
+.box2 {
+  height: fit-content;
+  width: 180px;
+  padding: 20px;
+  margin-top: -300px;
+  margin-left: 600px;
+  border: 10px;
+  border-color: black;
+  border-style: double;
+  background-color: cornflowerblue;
+}
+.box {
+  background-color: aliceblue;
+  height: max-content;
+  width: 1000px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 3px;
+  background-color: black;
+}
+.button1 {
+  display: inline-block;
+  background-color: rgb(28, 170, 23);
+  color: rgb(10, 114, 204);
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+a:link,
+a:visited {
+  text-decoration: none;
+  color: blue;
+}
+a:hover {
+  text-decoration: underline;
+  color: blueviolet;
+}
+.textbox1 {
+  background-color: black;
+  color: aliceblue;
+  margin-left: 30px;
+  border-style: double;
+  border-color: aliceblue;
+  padding-top: 15px;
+}
+.input1 {
+  background-color: rgb(16, 119, 119);
+}
+input:hover {
+  text-decoration: underline;
+}
+.ol1 {
+  list-style-type: square;
+}

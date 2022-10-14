@@ -1,0 +1,110 @@
+html {
+  background-color: rgb(17, 16, 16);
+}
+
+body {
+}
+.boxnav1 {
+  color: aliceblue;
+}
+.header {
+  text-align: left;
+  text-indent: 288px;
+}
+
+.nav1 {
+  text-align: center;
+  text-indent: 500px;
+  color: aliceblue;
+}
+.head {
+  font-size: 20px;
+  color: aliceblue;
+}
+.navbutton {
+  background-color: rgb(17, 16, 16);
+  color: aliceblue;
+  border: 0px;
+  background-size: cover;
+  text-decoration: none;
+}
+.mypic {
+  width: 250px;
+  height: 250px;
+}
+.hrnavbox {
+}
+.sign {
+  height: 15px;
+  width: 15px;
+}
+.sign2 {
+  height: 15px;
+  width: 15px;
+  margin-left: 10px;
+}
+.button2 {
+  border-style: solid;
+  padding: 2px;
+  border-radius: 8px;
+  border-width: 20px;
+
+  border-color: rgba(19, 18, 18, 0.801);
+  background-color: rgba(19, 18, 18, 0.801);
+  -webkit-text-fill-color: aliceblue;
+}
+.intro {
+  color: aliceblue;
+}
+.introdiv {
+  background-size: contain;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  background-color: rgba(19, 18, 18, 0.801);
+  height: 350px;
+}
+h6 {
+  text-align: center;
+  color: crimson;
+  font-size: large;
+}
+h1 {
+  color: aliceblue;
+  text-align: center;
+}
+.experiance {
+  color: aliceblue;
+  text-align: center;
+}
+
+hr {
+  width: 100px;
+  margin-top: 50px;
+  height: 2px;
+  background-color: white;
+  border-radius: 20px;
+}
+label {
+  color: white;
+}
+ul {
+  margin-top: 50px;
+  margin-left: 280px;
+}
+li {
+  margin-top: 15px;
+  list-style: disc;
+  color: aliceblue;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+}
